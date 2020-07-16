@@ -1,7 +1,9 @@
 html {
   font-size: 10px;
-  background: url(./assets/IMG_0193.jpg) bottom center;
+  background: url(./assets/IMG_0193.jpg);
+  background-position: center;
   background-size: cover;
+  height: 100vh;
 }
 
 body,html {
